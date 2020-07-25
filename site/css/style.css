@@ -24,4 +24,7 @@ ul {
    list-style-type: disc;
    list-style-position: inside;
 }
+
+li:nth-child(even) {
+   margin-left: 30px;
 }
