@@ -35,4 +35,5 @@ ul {
 
 li:nth-child(even) {
    margin-left: 30px;
+   list-style: none;
 }
