@@ -30,7 +30,7 @@ p {
 ul {
    margin-left: 40px;
    list-style-type: disc;
-   list-style-position: inside;
+   list-style-position: outside;
 }
 
 li:nth-child(even) {
