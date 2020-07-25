@@ -4,6 +4,8 @@ body {
    font-family: 'Berthold Akzidenz Grotesk BE', sans-serif;
    line-height: 22px;
    background-color: #fbfbfb;
+   margin-left: 300px;
+   margin-right: 300px;
 }
 
 header {
