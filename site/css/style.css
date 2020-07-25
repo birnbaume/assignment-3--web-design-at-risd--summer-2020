@@ -5,6 +5,17 @@ body {
 
 header {
    text-align: center;
+   font-family: 'Berthold society', serif;
+   font-weight: bold;
+}
+
+h1 {
+   font-size: 22px;
+   padding-bottom: 6px;
+}
+
+h2 {
+   font-size: 16px;
 }
 
 ul {
