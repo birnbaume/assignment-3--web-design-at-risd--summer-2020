@@ -1,6 +1,7 @@
 body {
    padding: 20px;
-   height: 200vh
+   height: 200vh;
+   font-family: 'Berthold Akzidenz Grotesk BE', sans-serif;
 }
 
 header {
