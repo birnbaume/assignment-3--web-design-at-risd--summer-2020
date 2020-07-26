@@ -15,4 +15,7 @@ p {
 ol {
    margin-left: 40px;
    list-style: decimal outside;
+   padding-bottom: 80px;
+}
+
 }
