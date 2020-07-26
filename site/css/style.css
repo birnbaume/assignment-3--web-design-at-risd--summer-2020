@@ -8,21 +8,6 @@ body {
    margin-right: 300px;
 }
 
-header {
-   text-align: center;
-   font-family: 'Berthold City', serif;
-   font-weight: bold;
-}
-
-h1 {
-   font-size: 22px;
-   padding-bottom: 6px;
-}
-
-h2 {
-   font-size: 16px;
-}
-
 p {
    padding-bottom: 6px;
 }
