@@ -18,4 +18,7 @@ p:nth-child(1) {
    justify-content: space-evenly;
    padding-left: 20px;
    padding-right: 20px;
+   position: relative;
+}
+
 }
