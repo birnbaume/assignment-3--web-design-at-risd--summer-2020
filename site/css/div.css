@@ -21,4 +21,12 @@ p:nth-child(1) {
    position: relative;
 }
 
+cite {
+   position: absolute;
+   bottom: -24px;
+   opacity: 0;
+   transition: 350ms;
+}
+div:hover > cite {
+   opacity: 1;
 }
