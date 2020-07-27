@@ -3,9 +3,10 @@ body {
    height: 270vh;
    font-family: 'Ubuntu', sans-serif;
    line-height: 22px;
-   background-color: #fbfbfb;
-   margin-left: 300px;
-   margin-right: 300px;
+   color: white;
+   background: black;
+   margin-left: 400px;
+   margin-right: 240px;
 }
 
 p {

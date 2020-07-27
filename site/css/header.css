@@ -12,3 +12,8 @@ h1 {
 h2 {
    font-size: 16px;
 }
+
+h3 {
+   padding: 12px;
+   box-shadow: -1px 1px 4px 2px #2BA0BD;
+}

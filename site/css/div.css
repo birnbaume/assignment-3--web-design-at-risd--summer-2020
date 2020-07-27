@@ -5,7 +5,7 @@ h3 {
    padding-bottom: 10px;
 }
 
-p:nth-child(1) {
+div > p {
    margin-left: 40px;
 }
 
@@ -14,11 +14,18 @@ p:nth-child(1) {
 .i,
 .j {
    display: flex;
+   flex-direction: column;
    width: 100%;
    justify-content: space-evenly;
    padding-left: 20px;
    padding-right: 20px;
    position: relative;
+}
+
+.a > p,
+.d > p,
+.i > p {
+   right: 50px;
 }
 
 cite {
@@ -28,27 +35,27 @@ cite {
    transition: 350ms;
 }
 
-.a > cite {
-   right: 76px;
-}
-
-.d > cite {
-   right: 37px;
-}
-
-.i > cite {
-   right: 65px;
-}
-
-.j > cite {
-   right: 26px;
+img {
+   width: 300px;
+   padding-left: 270px;
 }
 
 div:hover > cite {
    opacity: 1;
+   right: 420px;
 }
 
-div > p {
+p {
+   margin-right: 160px;
+}
+
+.a > p,
+.d > p,
+.i > p,
+.j > p {
    flex-shrink: 4;
    padding-right: 30px;
+   padding-bottom: 20px;
+   margin-right: 176px;
+   margin-left: 20px;
 }
