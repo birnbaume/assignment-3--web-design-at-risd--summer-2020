@@ -27,6 +27,23 @@ cite {
    opacity: 0;
    transition: 350ms;
 }
+
+.a > cite {
+   right: 76px;
+}
+
+.d > cite {
+   right: 37px;
+}
+
+.i > cite {
+   right: 65px;
+}
+
+.j > cite {
+   right: 26px;
+}
+
 div:hover > cite {
    opacity: 1;
 }
