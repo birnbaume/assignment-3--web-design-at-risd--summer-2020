@@ -47,3 +47,8 @@ cite {
 div:hover > cite {
    opacity: 1;
 }
+
+div > p {
+   flex-shrink: 4;
+   padding-right: 30px;
+}
